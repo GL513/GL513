@@ -3,6 +3,7 @@ I'm GL.
 View more on https://GL513.github.io/
 <!-- I just wanted numbers :( -->
 <!-- Google tag (gtag.js) -->
+<html>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PZXKZNXKYR"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -11,3 +12,4 @@ View more on https://GL513.github.io/
 
   gtag('config', 'G-PZXKZNXKYR');
 </script>
+</html>
